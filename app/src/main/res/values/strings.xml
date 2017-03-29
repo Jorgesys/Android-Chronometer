@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Chronometer</string>
+    <string name="chronometerTitle">My first Chronometer</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="restart">Restart</string>
+    <string name="setFormat">Change Format</string>
+    <string name="clearFormat">Restart Format</string>
+</resources>
